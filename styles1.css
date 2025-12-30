@@ -1,0 +1,23 @@
+.large-heading {
+    font-size: 32px;
+}
+
+.medium-heading {
+    font-size: 24px;
+}
+
+.small-heading {
+    font-size: 18px;
+}
+.bold-text {
+    font-weight: bold;
+}
+
+.bold-italic-text {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.italic-text {
+    font-style: italic;
+}
